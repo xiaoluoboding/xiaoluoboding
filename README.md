@@ -1,5 +1,7 @@
 # Hello! I'm 小蘿蔔丁
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+
 I ❤️ Front-end Development!
 
 Senior Front-end Engineer, currently based in Beijing, at JD.com.
