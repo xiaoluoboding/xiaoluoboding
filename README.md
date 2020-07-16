@@ -39,4 +39,4 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-[![HitCount](http://hits.dwyl.com/xiaoluoboding/xiaoluoboding.svg)](http://hits.dwyl.com/xiaoluoboding/xiaoluoboding)
+![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
