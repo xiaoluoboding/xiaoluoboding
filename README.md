@@ -1,4 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 小蘿蔔丁
+# 𝗛𝗲𝗹𝗹𝗼! 𝗜'𝗺 Yunwei Xiao
 
 [![](https://img.shields.io/badge/-@xiaoluoboding-%231DA1F2?style=flat-square&logo=twitter&logoColor=ffffff)](https://twitter.com/xiaoluoboding)
 [![](https://img.shields.io/badge/-@xiaoluoboding-%23181717?style=flat-square&logo=github)](https://github.com/xiaoluoboding)
@@ -33,7 +33,10 @@
 ![Stylus](https://img.shields.io/badge/-Stylus-%23333333?style=flat-square&logo=stylus)
 ![TailwindCss](https://img.shields.io/badge/-TailwindCss-%231a202c?style=flat-square&logo=tailwind-css)
 
+## 𝗦𝘁𝗮𝘁𝘂𝘀
+
+![xiaoluoboding's github stats](https://github-readme-stats.vercel.app/api?username=xiaoluoboding&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
 [![HitCount](http://hits.dwyl.com/xiaoluoboding/xiaoluoboding.svg)](http://hits.dwyl.com/xiaoluoboding/xiaoluoboding)
