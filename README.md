@@ -39,5 +39,5 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=xiaoluobodingf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A
+![visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=xiaoluoboding&repo=xiaoluoboding&countColorcountColor&countColor=%237B1E7A
 )
