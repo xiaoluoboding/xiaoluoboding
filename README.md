@@ -39,4 +39,5 @@
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
-![visitors](https://xiaoluoboding-visitor-badge.glitch.me/badge?page_id=xiaoluoboding.xiaoluoboding)
+![visitors](https://estruyf-github.azurewebsites.net/api/VisitorHit?user=xiaoluobodingf&repo=github-visitors-badge&countColorcountColor&countColor=%237B1E7A
+)
