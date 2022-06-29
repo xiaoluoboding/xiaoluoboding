@@ -17,6 +17,7 @@
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
+- [tech-stack.tools](https://tech-stack.tools) - 🗡️ Discover our curated list of creative tools to supercharge your next project.
 - [onetab.group](https://onetab.group) - A Chrome extension in my sponsorware repository, like `one-tab`, but support restores `Tab Group` and more features. 🔌
 - `fancy-qrcode` - Fancy QRCode generator for Web.
 
