@@ -10,15 +10,15 @@
 
 :computer: 𝙎𝙚𝙡𝙛-𝙩𝙝𝙤𝙪𝙜𝙝𝙩 𝙁𝙧𝙤𝙣𝙩-𝙚𝙣𝙙 𝙋𝙧𝙤𝙙𝙪𝙘𝙩 𝙀𝙣𝙜𝙞𝙣𝙚𝙚𝙧.
 
-:vulcan_salute: 𝑰 𝒑𝒖𝒕 𝒎𝒐𝒔𝒕𝒍𝒚 𝒐𝒇 𝒎𝒚 𝒇𝒐𝒄𝒖𝒔 𝒐𝒏 𝒘𝒆𝒃 𝒅𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕 𝒘𝒊𝒕𝒉 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑰'𝒎 𝒂 𝑽𝒖𝒆.𝒋𝒔 𝒏𝒆𝒓𝒅.
+🖖 𝗩𝘂𝗲.𝗷𝘀 𝗮𝗳𝗶𝗰𝗶𝗼𝗻𝗮𝗱𝗼 | 🔐 𝗪𝗲𝗯𝟯 𝗟𝗲𝗮𝗿𝗻𝗲𝗿 | ☕️ 𝗖𝗼𝗳𝗳𝗲𝗲 𝗹𝗼𝘃𝗲𝗿 | 🌵 𝗔𝗴𝗮𝘃𝗲 𝗻𝗮𝗻𝗻𝘆
 
-:writing_hand: 𝑰 𝒍𝒐𝒗𝒆 𝒔𝒉𝒂𝒓𝒊𝒏𝒈 𝒇𝒓𝒐𝒏𝒕-𝒆𝒏𝒅 𝒕𝒆𝒄𝒉 𝒔𝒕𝒂𝒄𝒌, 𝒚𝒐𝒖 𝒄𝒂𝒏 𝒄𝒉𝒆𝒄𝒌 𝒎𝒚 [monthly](http://github.com/xiaoluoboding/monthly) 𝒓𝒆𝒑𝒐𝒔 𝒄𝒐𝒍𝒍𝒆𝒄𝒕𝒊𝒐𝒏 𝒇𝒐𝒓 𝒎𝒐𝒓𝒆 𝒅𝒆𝒕𝒂𝒊𝒍𝒔.
+:writing_hand: 𝙄 𝙡𝙤𝙫𝙚 𝙨𝙝𝙖𝙧𝙞𝙣𝙜 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙚 𝙩𝙚𝙘𝙝 𝙨𝙩𝙖𝙘𝙠 𝙩𝙤𝙤𝙡𝙨, 𝙮𝙤𝙪 𝙘𝙖𝙣 𝙘𝙝𝙚𝙘𝙠 [tech-stack.tools](http://github.com/xiaoluoboding/tech-stack.tools) 𝙛𝙤𝙧 𝙢𝙤𝙧𝙚 𝙙𝙚𝙩𝙖𝙞𝙡𝙨.  
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
 - [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
 - [tech-stack.tools](https://tech-stack.tools) - 🗡️ Discover our curated list of creative tools to supercharge your next project.
-- [onetab.group](https://onetab.group) - A Chrome extension in my sponsorware repository, like `one-tab`, but support restores `Tab Group` and more features. 🔌
+- [onetab.group](https://onetab.group) - 🔌 A Chrome extension in my sponsorware repos, like `one-tab`, but support restores `Tab Group` and more features. 
 - `fancy-qrcode` - Fancy QRCode generator for Web.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
