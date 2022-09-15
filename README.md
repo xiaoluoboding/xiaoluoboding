@@ -18,7 +18,8 @@
 
 - [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
 - [tech-stack.tools](https://tech-stack.tools) - 🗡️ Discover our curated list of creative tools to supercharge your next project.
-- [onetab.group](https://onetab.group) - 🔌 A Chrome extension in my sponsorware repos, like `one-tab`, but support restores `Tab Group` and more features. 
+- [onetab.group](https://onetab.group) - 🔌 A Chrome extension in my sponsorware repos, like `one-tab`, but support restores `Tab Group` and more features.
+- [vue-command-palette](https://vue-command-palette.vercel.app/) - A fast, composable, unstyled `command` + `k` interface (Command Palette) for Vue.
 - `fancy-qrcode` - Fancy QRCode generator for Web.
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
