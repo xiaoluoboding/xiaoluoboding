@@ -18,8 +18,8 @@
 
 [![bookmark.style](https://metafy-svg.vercel.app/api?url=https://bookmark.style/&mode=light)](https://bookmark.style)
 [![tech-stack.tools](https://metafy-svg.vercel.app/api?url=https://tech-stack.tools/&mode=dark)](https://tech-stack.tools)
-[![onetab.group](https://metafy-svg.vercel.app/api?url=https://onetab.group&mode=dark)](https://onetab.group)
-[![vue-command-palette](https://metafy-svg.vercel.app/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=light)]([https://tech-stack.tools](https://github.com/xiaoluoboding/vue-command-palette))
+[![onetab.group](https://metafy-svg.vercel.app/api?url=https://www.onetab.group&mode=dark)](https://onetab.group)
+[![vue-command-palette](https://metafy-svg.vercel.app/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=light)](https://github.com/xiaoluoboding/vue-command-palette)
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
