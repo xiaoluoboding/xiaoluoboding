@@ -16,11 +16,10 @@
 
 ## 𝗖𝘂𝗿𝗿𝗲𝗻𝘁𝗹𝘆 𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗼𝗻
 
-- [bookmark.style](https://bookmark.style) - 🪄 Turn any link into a stylish visual web bookmark, one-click to copy the beautiful web bookmark image.
-- [tech-stack.tools](https://tech-stack.tools) - 🗡️ Discover our curated list of creative tools to supercharge your next project.
-- [onetab.group](https://onetab.group) - 🔌 A Chrome extension in my sponsorware repos, like `one-tab`, but support restores `Tab Group` and more features.
-- [vue-command-palette](https://vue-command-palette.vercel.app/) - A fast, composable, unstyled `command` + `k` interface (Command Palette) for Vue.
-- `fancy-qrcode` - Fancy QRCode generator for Web.
+[![bookmark.style](https://metafy-svg.vercel.app/api?url=https://bookmark.style/&mode=light)](https://bookmark.style)
+[![tech-stack.tools](https://metafy-svg.vercel.app/api?url=https://tech-stack.tools/&mode=dark)](https://tech-stack.tools)
+[![onetab.group](https://metafy-svg.vercel.app/api?url=https://onetab.group&mode=dark)](https://onetab.group)
+[![vue-command-palette](https://metafy-svg.vercel.app/api?url=https://github.com/xiaoluoboding/vue-command-palette&mode=light)]([https://tech-stack.tools](https://github.com/xiaoluoboding/vue-command-palette))
 
 ## 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 
